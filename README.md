@@ -2,7 +2,7 @@
 
 Synopsis
 ------------------------------------------
-
+This is a custom PCB+Firmware built as a contract for on Upwork. The customers goal was to dive with this device and use it's IMU to track the preformance and details of the dive.
 
 Installation
 -------
@@ -20,22 +20,3 @@ https://github.com/adafruit/Adafruit_Sensor/blob/master/Adafruit_Sensor.h
 
 #include <Adafruit_TSL2561_U.h>
 https://github.com/adafruit/Adafruit_TSL2561/blob/master/Adafruit_TSL2561_U.h
-
-Motivation
-----------------------------
-
-
-Tests
----------------------------------
-
-
-
-Contributors
----------------------------------
-
-N/A
-
-License
---------------------------------------
-
-N/A
